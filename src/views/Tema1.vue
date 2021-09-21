@@ -356,7 +356,7 @@
 
 
     .row.justify-content-center.mb-5
-      .col-lg-4
+      .col-lg-3
         .objBox
           a(@click="modal1 = true")
             figure(data-aos="flip-up")
@@ -373,7 +373,7 @@
               figure
                 img(src='@/assets/curso/t1-p1.svg', alt='icono decorativo')
       
-      .col-lg-4
+      .col-lg-3
         .objBox
           a(@click="modal2 = true")
             figure(data-aos="flip-up")

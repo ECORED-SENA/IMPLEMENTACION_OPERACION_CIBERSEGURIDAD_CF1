@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t1-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Para dar comienzo a este recorrido formativo por los fundamentos de seguridad digital y los análisis de riesgos, <b>presentamos algunos conceptos claves que orientarán la asimilación de los contenidos.</b> Preste toda su atención y disponibilidad para su estudio.
+            p.mb-0 La virtualización de muchas actividades ha transformado las bases de la sociedad y es comúnmente conocida como sociedad de la información y del conocimiento, que radica su fundamento en utilizar dispositivos digitales para las tareas diarias tales como comprar, vender, realizar operaciones financieras entre otras, a través de un solo clic.
 
 
 

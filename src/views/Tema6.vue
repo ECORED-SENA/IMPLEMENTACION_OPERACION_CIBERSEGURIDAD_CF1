@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t6-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4.shadow-box
-            p.mb-0 En la actualidad, el amplio uso de las tecnologías y la cantidad en aumento de usuarios en las redes y los sistemas ha favorecido la implantación de los delitos informáticos, es decir, <b>todas aquellas acciones gravemente engañosas y de fraude que pueden cometerse en los ámbitos digitales y on line.</b>
+            p.mb-0 En la actualidad, el amplio uso de las tecnologías y la cantidad en aumento de usuarios en las redes y los sistemas ha favorecido la implantación de los delitos informáticos, es decir, <b>todas aquellas acciones gravemente engañosas y de fraude que pueden cometerse en los ámbitos digitales y <i>on line</i>.</b>
 
     .row.mb-5.justify-content-center
       .col-lg-2

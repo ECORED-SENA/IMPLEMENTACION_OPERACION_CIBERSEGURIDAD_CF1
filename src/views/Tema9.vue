@@ -66,7 +66,7 @@
                 img(src='@/assets/curso/t9-ic6.svg', alt='imagen decorativa')
           
             .col-md-11
-              p.mb-3 Se trata de una amenaza para los ordenadores actuando a través de troyanos que se filtran en el mismo para así enviar información como spam. 
+              p.mb-3 Se trata de una amenaza para los ordenadores actuando a través de troyanos que se filtran en el mismo para así enviar información como <i>spam</i>. 
 
           .row(titulo="Inyección SQL")
             .col-md-1.mb-4.mb-md-0
@@ -107,7 +107,7 @@
             figure.slideInUp
               img(src='@/assets/curso/t9-t2.png', alt='icono decorativo')
           .col-lg-8
-            p.mb-3.slideInLeft Se incrementan las capacidades ofensivas siendo ésta, la principal amenaza de este nivel. Además de la desfiguración de páginas web y la manipulación de información. 
+            p.mb-3.slideInLeft Se incrementan las capacidades ofensivas siendo ésta, la principal amenaza de este nivel. Además de la desfiguración de páginas <i>web</i> y la manipulación de información. 
 
       .tarjeta.color-acento-contenido.p-5(titulo="Nivel alto")
         .h4 Nivel alto
@@ -134,7 +134,7 @@
             figure.slideInUp
               img(src='@/assets/curso/t9-t5.png', alt='icono decorativo')
           .col-lg-8
-            p.mb-3.slideInLeft Se habla del ciberespionaje como la gran amenaza de este nivel. El ataque proviene de APTs, campañas de malware, interrupción de servicios, compromiso de sistemas de control industrial, incidentes especiales, etc. 
+            p.mb-3.slideInLeft Se habla del ciberespionaje como la gran amenaza de este nivel. El ataque proviene de APTs, campañas de <i>malware</i>, interrupción de servicios, compromiso de sistemas de control industrial, incidentes especiales, etc. 
 
 
 
@@ -186,7 +186,7 @@
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p <b>Enlace web.</b> https://www.iso.org/obp/ui#iso:std:iso:31000:ed-2:v1:es
+                      p <b>Enlace <i>web</i>.</b> https://www.iso.org/obp/ui#iso:std:iso:31000:ed-2:v1:es
 
 
 

@@ -233,7 +233,7 @@
           .tarjeta.color-secundario.p-3.shadow-box(x="42%" y="23%")
             p <b>TELNET:</b> inicio de la sesión de forma remota.         
           .tarjeta.color-secundario.p-3.shadow-box(x="55%" y="23%")
-            p <b>HTTP (<i>Hypertext Transfer Protocol</i>)</b> transportar archivos que forman las páginas web de la <i>World Wide Web</i>. 
+            p <b>HTTP (<i>Hypertext Transfer Protocol</i>)</b> transportar archivos que forman las páginas <i>web</i> de la <i>World Wide Web</i>. 
           .tarjeta.color-secundario.p-3.shadow-box(x="67%" y="23%")
             p <b>SMTP (<i>Simple Mail Transfer Protocol</i>):</b>  transmisión de mensajes de correo electrónico y archivos adjuntos.
           .tarjeta.color-secundario.p-3.shadow-box(x="80%" y="23%")

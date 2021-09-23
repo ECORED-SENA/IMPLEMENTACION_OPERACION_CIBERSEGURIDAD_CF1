@@ -69,7 +69,7 @@
           img(src='@/assets/curso/t8-ic1.svg', alt='imagen decorativa')
       .col-lg-9
         p.mb-3  En términos informáticos y organizacionales, tanto las amenazas y las vulnerabilidades son propias de los sistemas de una compañía y esto la hace siempre susceptible. <b>Las amenazas y vulnerabilidades atentan contra la seguridad de un sistema de información y exponen la seguridad de la información</b> frente a los ataques que comprenden la integridad, disponibilidad o confidencialidad de la misma.
-        p.mb-3  El principal tipo de amenaza que tiene el sistema de información de cualquier organización es la amenaza de malware; los programas maliciosos o inseguros son una de las mayores ciberamenazas a las que se enfrentan las organizaciones. <b>Dentro del malware se encuentran las siguientes amenazas:</b>
+        p.mb-3  El principal tipo de amenaza que tiene el sistema de información de cualquier organización es la amenaza de <i>malware</i>; los programas maliciosos o inseguros son una de las mayores ciberamenazas a las que se enfrentan las organizaciones. <b>Dentro del <i>malware</i> se encuentran las siguientes amenazas:</b>
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -83,7 +83,7 @@
             p Los virus informáticos son los que se instalan en un dispositivo con el fin de proporcionar dificultades en su funcionamiento. 
 
           .tarjeta.color-secundario.p-3(x="25%" y="88%")
-            p Este es uno de los malware más comunes que infectan los equipos y sistemas de una empresa.
+            p Este es uno de los <i>malware</i> más comunes que infectan los equipos y sistemas de una empresa.
 
           .tarjeta.color-secundario.p-3(x="50%" y="100%")
             p Los troyanos son instalados en un equipo y pasan desapercibidos para el usuario.
@@ -92,7 +92,7 @@
             p Su función es encriptar toda la información de la organización, interrumpiendo el acceso a los datos y los sistemas y se pide un rescate para poder liberar la información.
 
           .tarjeta.color-secundario.p-3(x="92%" y="54%")
-            p Son instalados a través de troyanos y su función es robar datos de acceso a plataformas web, sitios bancarios y similares. 
+            p Son instalados a través de troyanos y su función es robar datos de acceso a plataformas <i>web</i>, sitios bancarios y similares. 
 
 
 
@@ -207,8 +207,8 @@
             figure.slideInLeft
               img(src='@/assets/curso/t8-t4.jpg', alt='imagen decorativa')
           .col-md-6.mb-4.mb-md-0
-            .h4 Phishing y otras amenazas
-            p Todas las gestiones o acciones equívocas, llegan a ser una amenaza de potenciales ataques; entre los más comunes está el phishing (suplantación de identidad) u otros conexos o relacionados.
+            .h4 <i>Phishing</i> y otras amenazas
+            p Todas las gestiones o acciones equívocas, llegan a ser una amenaza de potenciales ataques; entre los más comunes está el <i>phishing</i> (suplantación de identidad) u otros conexos o relacionados.
 
 
 
@@ -257,7 +257,7 @@
               img(src='@/assets/curso/t8-t7.jpg', alt='imagen decorativa')
           .col-md-6.mb-4.mb-md-0
             .h4 Desde el exterior
-            p Son múltiples los tipos y maneras de vulnerabilidades y/o amenazas informáticas. La mayoría de estas amenazas y/o vulnerabilidades, tienen origen en el exterior, como por ejemplo el malware o los ataques DDoS.
+            p Son múltiples los tipos y maneras de vulnerabilidades y/o amenazas informáticas. La mayoría de estas amenazas y/o vulnerabilidades, tienen origen en el exterior, como por ejemplo el <i>malware</i> o los ataques DDoS.
 
       .py-3.py-md-4(titulo="Desde el interior")
         .row 

@@ -1,3 +1,12 @@
+@keyframes float
+  0%
+    transform: translatey(0px)
+
+  50%
+    transform: translatey(-20px)
+
+  100%
+    transform: translatey(0px)
 .titulo-principal__numero
   background-color: #E01650
 .bloque-texto-d.color-acento-botones:before
@@ -20,13 +29,16 @@ a
 .banner-principal__img:after
   content: ''
   position: absolute
-  top: 11%
+  top: 15%
   width: 11%
   height: 23%
   background-image: url('../assets/curso/t0-i0.png')
   background-color: transparent
   background-repeat: no-repeat
   z-index: 3
+  overflow: hidden
+  transform: translatey(0px)
+  animation: float 6s ease-in-out infinite
 figcaption
   font-weight: 400
 .bg-soft-gray

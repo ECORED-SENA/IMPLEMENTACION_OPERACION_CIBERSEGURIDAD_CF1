@@ -39,10 +39,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  .h3.mb-1 Características, impacto y análisis de riesgos
-                  p.text-small A continuación, se ha diseñado una guía sobre los riesgos, su impacto y probabilidad, su análisis y tratamiento. <b>Descarga la siguiente infografía.</b> 
+                  .h3.mb-1 Normatividad y estándares de la ciberseguridad
+                  p.text-small Complemente la información sobre la normatividad en la siguiente infografía.
                 .col-sm-auto
-                  a.boton.color-secundario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-secundario(:href="obtenerLink('/downloads/Infografia_Normatividad_y_estandares_de_la_ciberseguridad.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

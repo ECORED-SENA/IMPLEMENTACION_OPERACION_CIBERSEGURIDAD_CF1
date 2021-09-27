@@ -382,18 +382,18 @@ export default {
       },
       {
         nombre: 'Pablo Cesar Pardo Ortiz',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Teleinformática y Producción Industrial - Cauca',
       },
       {
         nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador Instruccional',
-        centro: 'Centro agropecuario La Granja - Regional Tolima',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Jhana Johanna Bustillo Ardila',
@@ -422,13 +422,13 @@ export default {
       },
       {
         nombre: 'Luis Fabian Robles Méndez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
-        cargo: 'Soporte Front-End',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

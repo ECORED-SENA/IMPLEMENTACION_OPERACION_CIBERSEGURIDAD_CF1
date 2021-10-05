@@ -167,7 +167,7 @@
                   .h3.mb-1 Características, impacto y análisis de riesgos
                   p.text-small A continuación, se ha diseñado una guía sobre los riesgos, su impacto y probabilidad, su análisis y tratamiento. <b>Descarga la siguiente infografía.</b> 
                 .col-sm-auto
-                  a.boton.color-secundario(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-secundario(:href="obtenerLink('/downloads/infografia_ciberseguridad_Caracteristicas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

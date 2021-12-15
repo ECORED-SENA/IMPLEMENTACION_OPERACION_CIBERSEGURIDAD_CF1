@@ -103,7 +103,7 @@
             p.mb-3  La red en anillo, es básicamente una topología de red a través de la cual, cada estación tiene una única conexión de entrada y otra de salida. Cada estación cuenta con un receptor y un transmisor que tiene como función ser traductor, es decir, que pasa la señal a la estación siguiente. A través de un token, conocido también como testigo. La comunicación, en este tipo de red, es permitida; es así como se logran evitar las probables pérdidas de información por colisiones.  
 
       .tarjeta.color-acento-contenido.p-5(titulo="La topología en árbol")
-        .h4 Topología en anillo
+        .h4 La topología en árbol
         .row
           .col-lg-3
             figure.slideInLeft
@@ -121,7 +121,7 @@
           .col-lg-9
             p.mb-3  La topología de red mallada tiene como finalidad tener conectado cada nodo, a todos los nodos. De esta manera es posible dirigir los mensajes de un nodo a otro por diferentes caminos. Si la red de malla está totalmente conectada, no puede existir ninguna clase de interrupción en las comunicaciones. Cada servidor tiene sus propias conexiones con todos los demás servidores. 
 
-      .tarjeta.color-acento-contenido.p-5(titulo="Topología en malla")
+      .tarjeta.color-acento-contenido.p-5(titulo="Topología híbrida o mixta")
         .h4 Topología híbrida o mixta
         .row
           .col-lg-3

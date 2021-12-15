@@ -127,7 +127,7 @@
           .col-lg-8
             p.mb-3.slideInLeft Puede generar la interrupción de los recursos IT y de otros servicios, con las graves consecuencias que puede tener para una organización, y la filtración de datos. 
 
-      .tarjeta.color-acento-contenido.p-5(titulo="Nivel muy alto")
+      .tarjeta.color-acento-contenido.p-5(titulo="Nivel crítico")
         .h4 Nivel crítico
         .row
           .col-lg-4
